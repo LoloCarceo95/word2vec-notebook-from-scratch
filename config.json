@@ -1,0 +1,12 @@
+{
+  "vocab_size": 19408,
+  "embed_dim": 100,
+  "K": 3,
+  "epochs": 10,
+  "lr": 0.001,
+  "optimizer": "Adam",
+  "device": "cpu",
+  "min_count": 5,
+  "coh_every_steps": 0,
+  "coh_eps": 1e-12
+}
